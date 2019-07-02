@@ -1,2 +1,2 @@
 # java-read-xlsx
-Just a simple xlsx reader example
+Quick and dirty xlsx reader example for a Stackoverflow user's question
